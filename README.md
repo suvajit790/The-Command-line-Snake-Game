@@ -1,6 +1,7 @@
 # The-Command-line-Snake-Game
 A Snake game made with JAVA ,which can be played in command line.
 
+
 1.Please download all the files and keep those in the same folder.
 
 2.In linux terminal or in windows powershell or cmd go to the folder.
@@ -11,5 +12,7 @@ A Snake game made with JAVA ,which can be played in command line.
 
 5.You can change the direction of the snake by 2+Enter(for down),8+Enter(for up),4+Enter(for left),6+Enter (for right).
 
+
 Have fun.
+
 Thank you.
